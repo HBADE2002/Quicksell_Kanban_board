@@ -7,7 +7,8 @@ When a user clicks the "display" button and selects a grouping option, the Kanba
 
 Images of the project:
 1.Main Dashboard
-<img width="883" alt="image" src="https://github.com/HBADE2002/Quicksell_Kanban_board/assets/78660475/14474296-380a-478b-95d2-18a8aa1fb495
+<img width="882" alt="image" src="https://github.com/HBADE2002/Quicksell_Kanban_board/assets/78660475/9fcbaf46-dafd-4371-a7b2-c422034d933d">
+
 
 2. Sorted by Priority
 <img width="953" alt="image" src="https://github.com/HBADE2002/Quicksell_Kanban_board/assets/78660475/2e56ca1c-9e56-498d-be52-665758657c7b">
