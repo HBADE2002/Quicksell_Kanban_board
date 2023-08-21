@@ -1,3 +1,20 @@
+This is a project given by Quicksell for placement purposes
+
+Objective of the project:
+You are required to create an interactive Kanban board application using React JS that interacts with the provided API
+
+When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
+
+Images of the project:
+1.Main Dashboard
+<img width="883" alt="image" src="https://github.com/HBADE2002/Quicksell_Kanban_board/assets/78660475/14474296-380a-478b-95d2-18a8aa1fb495
+
+2. Sorted by Priority
+<img width="953" alt="image" src="https://github.com/HBADE2002/Quicksell_Kanban_board/assets/78660475/2e56ca1c-9e56-498d-be52-665758657c7b">
+
+3. Sorted by Title
+<img width="942" alt="image" src="https://github.com/HBADE2002/Quicksell_Kanban_board/assets/78660475/52dbee2e-19ea-4157-a8cf-c46b3cf24dd0">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
