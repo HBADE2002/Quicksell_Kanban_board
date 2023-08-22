@@ -1,5 +1,7 @@
 This is a project given by Quicksell for placement purposes
 
+link to the website (hosted on vercel) : https://quicksell-kanban-board.vercel.app/
+
 Objective of the project:
 You are required to create an interactive Kanban board application using React JS that interacts with the provided API
 
